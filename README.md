@@ -37,6 +37,17 @@ With a strong foundation in network security and hands-on knowledge of security 
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+### LANGUAGE 
+
+<div>
+  <img src="https://img.shields.io/badge/English-Proficient-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spanish-B1-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Fundamentals-blue?style=for-the-badge&logo=Python&logoColor=yellow" />
+</div>
+
+
+
+
 ## Certifications
 
 <div>
