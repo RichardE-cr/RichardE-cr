@@ -1,4 +1,4 @@
-# Hello, I’m Richard Edwards 
+# Hi, I’m Richard Edwards 
 <a href="https://www.linkedin.com/in/richard-demetrius-edwards/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Certified Network+ professional with a passion for cybersecurity, a keen eye for observation, and a strong dedication to solving complex problems in dynamic environments
@@ -12,7 +12,7 @@ With a strong foundation in network security and hands-on knowledge of security 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | HTTP Log Analysis Using Splunk SIEM          | <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
-| Network Traffic Monitoring and Attack Detection | SOC Automation Lab
+| Network Traffic Monitoring and Attack Detection | Home Lab
 
 
 ## Tools
