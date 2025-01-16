@@ -5,7 +5,7 @@ Certified Network+ professional with a passion for cybersecurity, a keen eye for
 
 ## Objective
 
-With a strong foundation in network security and hands-on knowledge of security tools, I am seeking to transition into a cybersecurity role as a Tier 1 Analyst in a Security Operations Center (SOC).
+With a solid foundation in network security and hands-on experience with security tools, I am committed to continuous learning and skill-building to transition into and excel as a Tier 1 Analyst in a Security Operations Center Center (SOC).
 
 ## Skills
 
