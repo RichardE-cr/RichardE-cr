@@ -11,10 +11,9 @@ With a strong foundation in network security and hands-on knowledge of security 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https:|
-| Network Traffic Monitoring and Attack Detection | <a href="https:|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| HTTP Log Analysis Using Splunk SIEM          | <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
+| Network Traffic Monitoring and Attack Detection | SOC Automation Lab
+
 
 ## Tools
 
@@ -37,12 +36,17 @@ With a strong foundation in network security and hands-on knowledge of security 
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### LANGUAGE 
+### Technical Language 
+
+<div> 
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow" />
+</div>
+
+### Language
 
 <div>
   <img src="https://img.shields.io/badge/English-Proficient-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Spanish-B1-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Fundamentals-blue?style=for-the-badge&logo=Python&logoColor=yellow" />
 </div>
 
 
@@ -58,4 +62,6 @@ With a strong foundation in network security and hands-on knowledge of security 
 </div>
 
 ## Projects
-- 
+- <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
+- SOC Automation Lab
+
