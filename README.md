@@ -1,5 +1,9 @@
 # Hi, I’m Richard Edwards 
 <a href="https://www.linkedin.com/in/richard-demetrius-edwards/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@richard.demetrius" target="_blank">
+  <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile Badge">
+</a>
+
 
 Certified Network+ professional with a passion for cybersecurity, a keen eye for observation, and a strong dedication to solving complex problems in dynamic environments
 
