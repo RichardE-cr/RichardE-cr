@@ -59,6 +59,7 @@ With a solid foundation in network security and hands-on experience with securit
 ## Certifications
 
 <div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk_Core_User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
