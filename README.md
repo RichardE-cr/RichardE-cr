@@ -16,7 +16,7 @@ With a solid foundation in network security and hands-on experience with securit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | HTTP Log Analysis Using Splunk SIEM          | <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
-| Network Traffic Monitoring and Attack Detection | Home Lab
+| Phishing Simulation using Gophish and Railway | <a href="https://github.com/RichardE-cr/Phishing-Simulator-excercise">Phishing Simulation</a>
 
 
 ## Tools
