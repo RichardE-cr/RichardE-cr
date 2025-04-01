@@ -5,7 +5,7 @@
 </a>
 
 
-Certified Network+ professional with a passion for cybersecurity, a keen eye for observation, and a strong dedication to solving complex problems in dynamic environments
+Certified Security+ professional with a passion for cybersecurity, a keen eye for observation, and a strong dedication to solving complex problems in dynamic environments
 
 ## Objective
 
@@ -68,5 +68,5 @@ With a solid foundation in network security and hands-on experience with securit
 
 ## Projects
 - <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
-- SOC Automation Lab
+- <a href="https://github.com/RichardE-cr/Phishing-Simulator-excercise">Phishing Simulation</a>
 
