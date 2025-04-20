@@ -15,8 +15,9 @@ With a solid foundation in network security and hands-on experience with securit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| HTTP Log Analysis Using Splunk SIEM          | <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
+| Vulnerability Management Policy Implementation Using Tenable | <a href="https://github.com/RichardE-cr/Vulnerability-Management-Program-Implementation">Vulnerability Management Policy Implementation</a>
 | Phishing Simulation using Gophish and Railway | <a href="https://github.com/RichardE-cr/Phishing-Simulator-excercise">Phishing Simulation</a>
+| HTTP Log Analysis Using Splunk SIEM | <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
 
 
 ## Tools
@@ -67,6 +68,7 @@ With a solid foundation in network security and hands-on experience with securit
 </div>
 
 ## Projects
-- <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
+- <a href="https://github.com/RichardE-cr/Vulnerability-Management-Program-Implementation">Vulnerability Management Policy Implementation</a>
 - <a href="https://github.com/RichardE-cr/Phishing-Simulator-excercise">Phishing Simulation</a>
+- <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis</a>
 
