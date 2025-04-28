@@ -9,11 +9,12 @@ Certified Security+ professional with a passion for cybersecurity, a keen eye fo
 
 ## Objective
 
-With a solid foundation in network security and hands-on experience with security tools like Microsoft Defender for Endpoint, Microsoft Sentinel, Splunk Enterprise, etc; I am committed to continuous learning and skill-building to excel in a Cybersecurity Analyst role.
+Results-driven cybersecurity professional with a strong foundation in network security and hands-on expertise in Microsoft Defender for Endpoint, Microsoft Sentinel, and Splunk Enterprise. Passionate about continuous learning and threat mitigation, I aim to leverage my technical skills and analytical mindset to excel as a Cybersecurity Analyst and contribute to organizational resilience.
 
 ## Vulnerability Management Projects
 
 * <a href="https://github.com/RichardE-cr/Vulnerability-Management-Program-Implementation">Vulnerability Management Policy Implementation</a>
+* <a href ="https://github.com/RichardE-cr/STIG-Implementations">Windows 10 DISA STIG Hardening Automation (via Powershell scripts)</a>
 
 
 ## Threat Hunting and Security Operations
