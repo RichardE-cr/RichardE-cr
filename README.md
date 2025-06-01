@@ -16,6 +16,9 @@ Results-driven cybersecurity professional with a strong foundation in network se
 * <a href="https://github.com/RichardE-cr/Vulnerability-Management-Program-Implementation">Vulnerability Management Policy Implementation</a>
 * <a href ="https://github.com/RichardE-cr/STIG-Implementations">Windows 10 DISA STIG Hardening Automation (via Powershell scripts)</a>
 
+## Cloud / Network Security 
+
+* <a href="https://github.com/RichardE-cr/Cloud-Web-Security-Lab-with-Waf-and-Mde">Deploying a WAF alongside a Vulnerable Application (DVWA) within a secure, monitored Microsoft Azure Environment</a>
 
 ## Threat Hunting and Security Operations
 
@@ -29,11 +32,6 @@ Results-driven cybersecurity professional with a strong foundation in network se
 ## Phishing Simulation 
 
 * <a href="https://github.com/RichardE-cr/Phishing-Simulator-excercise">Phishing Simulation Using GoPhish and Railway</a>
-
-
-## Log Analysis using Splunk 
-
-* <a href="https://github.com/RichardE-cr/HTTP-Log-Files-Using-Splunk">HTTP Log Analysis Using Splunk</a>
 
 
 
