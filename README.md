@@ -19,7 +19,7 @@ Results-driven cybersecurity professional with a strong foundation in network se
 
 ## Threat Hunting and Security Operations
 
-* <a href="https://github.com/RichardE-cr/CTF-Incident-Response-Report">CTF Incident Report - Advanced Hunting with MDE - 21st May 2025</a>
+* <a href="https://github.com/RichardE-cr/CTF-Incident-Response-Report">CTF Incident Report - Advanced Hunting with MDE - May 2025</a>
 * <a href="https://github.com/RichardE-cr/Threat-Hunting-Lab-Detecting-Unauthorized-Port-Scanning">Threat Hunting Lab Detecting Unauthorized Port Scanning (resulting in network slowdown for older device)</a>
 * <a href="https://github.com/RichardE-cr/Threat-Hunt-Scenario-Data-Exfiltration">Threat Hunting Lab Insider Threat (potential data exfiltration attempt)</a>
 
