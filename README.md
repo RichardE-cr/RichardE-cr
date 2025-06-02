@@ -18,7 +18,7 @@ Results-driven cybersecurity professional with a strong foundation in network se
 
 ## Cloud / Network Security 
 
-* <a href="https://github.com/RichardE-cr/Cloud-Web-Security-Lab-with-Waf-and-Mde">Deploying a WAF alongside a Vulnerable Application (DVWA) within a secure, monitored Microsoft Azure Environment</a>
+* <a href="https://github.com/RichardE-cr/Cloud-Web-Security-Lab-with-Waf-and-Mde">Protecting Vulnerable App (DVWA) with Web Application Firewall (WAF) + Threat Hunting in Microsoft Defender</a>
 
 ## Threat Hunting and Security Operations
 
