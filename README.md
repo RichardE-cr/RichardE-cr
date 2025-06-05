@@ -4,12 +4,7 @@
   <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile Badge">
 </a>
 
-
-Certified Security+ professional with a passion for cybersecurity, a keen eye for observation, and a strong dedication to solving complex problems in dynamic environments.
-
-## Objective
-
-Results-driven cybersecurity professional with a strong foundation in network security and hands-on expertise in Microsoft Defender for Endpoint, Microsoft Sentinel, and Splunk Enterprise. Passionate about continuous learning and threat mitigation, I aim to leverage my technical skills and analytical mindset to excel as a Cybersecurity Analyst and contribute to organizational resilience.
+Results-driven cybersecurity professional with a strong foundation in network security and hands-on expertise in Microsoft Defender for Endpoint, Microsoft Sentinel, and Splunk Enterprise. Passionate about continuous learning and threat mitigation, I aim to leverage my technical skills and analytical mindset to excel throughout my career and contribute to organizational resilience.
 
 ## Vulnerability Management Projects
 
@@ -25,13 +20,6 @@ Results-driven cybersecurity professional with a strong foundation in network se
 * <a href="https://github.com/RichardE-cr/CTF-Incident-Response-Report">CTF Incident Report - Advanced Hunting with MDE - May 2025</a>
 * <a href="https://github.com/RichardE-cr/Threat-Hunting-Lab-Detecting-Unauthorized-Port-Scanning">Threat Hunting Lab Detecting Unauthorized Port Scanning (resulting in network slowdown for older device)</a>
 * <a href="https://github.com/RichardE-cr/Threat-Hunt-Scenario-Data-Exfiltration">Threat Hunting Lab Insider Threat (potential data exfiltration attempt)</a>
-
-
-
-
-## Phishing Simulation 
-
-* <a href="https://github.com/RichardE-cr/Phishing-Simulator-excercise">Phishing Simulation Using GoPhish and Railway</a>
 
 
 
