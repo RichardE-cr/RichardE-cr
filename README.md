@@ -8,7 +8,7 @@ Results-driven cybersecurity professional with a strong foundation in network se
 
 ## Vulnerability Management Projects
 
-* <a href="https://github.com/RichardE-cr/Vulnerability-Management-Program-Implementation">Vulnerability Management Policy Implementation</a>
+* <a href="https://github.com/RichardE-cr/Vulnerability-Management-Program-Implementation">Vulnerability Management Policy Implementation (Tenable.io)</a>
 * <a href ="https://github.com/RichardE-cr/STIG-Implementations">Windows 10 DISA STIG Hardening Automation (via Powershell scripts)</a>
 
 ## Cloud / Network Security 
