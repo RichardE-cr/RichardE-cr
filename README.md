@@ -9,13 +9,12 @@ Results-driven cybersecurity professional with a strong foundation in network se
 ## Cloud / Network Security 
 
 * <a href="https://github.com/RichardE-cr/Cloud-Web-Security-Lab-with-Waf-and-Mde">Protecting Vulnerable App (DVWA) with Web Application Firewall (WAF) + Threat Hunting in Microsoft Defender</a>
-
+* <a href="https://github.com/RichardE-cr/Email-Protocols-Authentication-Lab-SPF-DKIM-DMARC-in-Action">Email Protocols & Authentication Lab: DKIM, SPF, DMARC in Action</a>
 
 ## Vulnerability Management Projects
 
 * <a href="https://github.com/RichardE-cr/Vulnerability-Management-Program-Implementation">Vulnerability Management Policy Implementation (Tenable.io)</a>
 * <a href="https://github.com/RichardE-cr/STIG-Implementations">Windows 10 DISA STIG Hardening Automation (via Powershell scripts)</a>
-* <a href="https://github.com/RichardE-cr/Email-Protocols-Authentication-Lab-SPF-DKIM-DMARC-in-Action">Email Protocols & Authentication Lab: DKIM, SPF, DMARC in Action</a>
 
 
 ## Threat Hunting and Security Operations
