@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile Badge">
 </a>
 
-Results-driven cybersecurity professional with a strong foundation in network security and hands-on expertise in Microsoft Defender for Endpoint, Microsoft Sentinel, and Splunk Enterprise. Passionate about continuous learning and threat mitigation, I aim to leverage my technical skills and analytical mindset to excel throughout my career and contribute to organizational resilience.
-
 ## Cloud / Network Security 
 
 * <a href="https://github.com/RichardE-cr/Cloud-Web-Security-Lab-with-Waf-and-Mde">Protecting Vulnerable App (DVWA) with Web Application Firewall (WAF) + Threat Hunting in Microsoft Defender</a>
